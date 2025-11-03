@@ -221,3 +221,50 @@
 2025-10-29 13:35:59 - ALERTA: Tempo excedido para 0 Euclides Neto
 2025-10-29 13:36:04 - ALERTA: Tempo excedido para 0 Euclides Neto
 2025-10-29 13:36:04 - 0 Euclides Neto: SAÍDA (Total: 191.62s)
+2025-11-03 12:48:39 - 0 Euclides Neto: ENTRADA
+2025-11-03 12:49:39 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:49:44 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:49:49 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:49:54 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:50:00 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:50:01 - 0 Euclides Neto: SAÍDA (Total: 82.63s)
+2025-11-03 12:57:28 - 0 Euclides Neto: ENTRADA
+2025-11-03 12:58:28 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:58:33 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:58:38 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:58:43 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:58:48 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 12:58:52 - 0 Euclides Neto: SAÍDA (Total: 84.34s)
+2025-11-03 13:01:15 - 0 Euclides Neto: ENTRADA
+2025-11-03 13:02:17 - ALERTA: Tempo excedido para 0 Euclides Neto
+2025-11-03 13:07:06 - 1 Eduardo Henrique: ENTRADA
+2025-11-03 13:07:42 - 1 Eduardo Henrique: ENTRADA
+2025-11-03 13:08:42 - ALERTA: Tempo excedido para 1 Eduardo Henrique
+2025-11-03 13:08:43 - 1 Eduardo Henrique: SAÍDA (Total: 61.47s)
+2025-11-03 13:32:16 - 0 Euclides Neto: ENTRADA
+2025-11-03 13:32:34 - 1 Eduardo Henrique: ENTRADA
+2025-11-03 13:33:02 - 1 Eduardo Henrique: SAÍDA (Total: 27.69s)
+2025-11-03 13:33:32 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:33:41 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:01 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:13 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:21 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:31 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:36 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:41 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:34:44 - 0 Euclides Neto: SAÍDA (Total: 147.90s)
+2025-11-03 13:38:08 - 0 Euclides Neto: ENTRADA
+2025-11-03 13:38:30 - 1 Eduardo Henrique: ENTRADA
+2025-11-03 13:39:09 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:39:14 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:39:19 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:39:24 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:39:29 - 0 Euclides Neto: ALERTA: Tempo excedido
+2025-11-03 13:39:30 - 1 Eduardo Henrique: ALERTA: Tempo excedido
+2025-11-03 13:39:31 - 0 Euclides Neto: SAÍDA (Total: 82.21s)
+2025-11-03 13:39:35 - 1 Eduardo Henrique: ALERTA: Tempo excedido
+2025-11-03 13:39:41 - 1 Eduardo Henrique: ALERTA: Tempo excedido
+2025-11-03 13:39:46 - 1 Eduardo Henrique: ALERTA: Tempo excedido
+2025-11-03 13:39:46 - 1 Eduardo Henrique: SAÍDA (Total: 75.69s)
+2025-11-03 13:51:50 - 0 Euclides Neto: ENTRADA
+2025-11-03 13:52:06 - 1 Eduardo Henrique: ENTRADA
